@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gong-807-023\\Desktop\\Zombie(Final)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE536EA7-0A8E-4022-4DED-4BB345F54202}|Assembly-CSharp.csproj|c:\\users\\gong-807-023\\desktop\\zombie(final)\\assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE536EA7-0A8E-4022-4DED-4BB345F54202}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE536EA7-0A8E-4022-4DED-4BB345F54202}|Assembly-CSharp.csproj|c:\\users\\gong-807-023\\desktop\\zombie(final)\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE536EA7-0A8E-4022-4DED-4BB345F54202}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE536EA7-0A8E-4022-4DED-4BB345F54202}|Assembly-CSharp.csproj|C:\\Users\\gong-807-023\\Desktop\\Zombie(Final)\\assets\\scripts\\gundata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE536EA7-0A8E-4022-4DED-4BB345F54202}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gundata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE536EA7-0A8E-4022-4DED-4BB345F54202}|Assembly-CSharp.csproj|C:\\Users\\gong-807-023\\Desktop\\Zombie(Final)\\assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE536EA7-0A8E-4022-4DED-4BB345F54202}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZombieSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\gong-807-023\\Desktop\\Zombie(Final)\\Assets\\Scripts\\ZombieSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieSpawner.cs",
+              "ToolTip": "C:\\Users\\gong-807-023\\Desktop\\Zombie(Final)\\Assets\\Scripts\\ZombieSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T10:34:45.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\gong-807-023\\Desktop\\Zombie(Final)\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\gong-807-023\\Desktop\\Zombie(Final)\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:30:54.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GunData.cs",
+              "DocumentMoniker": "C:\\Users\\gong-807-023\\Desktop\\Zombie(Final)\\Assets\\Scripts\\GunData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GunData.cs",
+              "ToolTip": "C:\\Users\\gong-807-023\\Desktop\\Zombie(Final)\\Assets\\Scripts\\GunData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GunData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:57:36.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\gong-807-023\\Desktop\\Zombie(Final)\\Assets\\Scripts\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun.cs",
+              "ToolTip": "C:\\Users\\gong-807-023\\Desktop\\Zombie(Final)\\Assets\\Scripts\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAqwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:57:25.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
